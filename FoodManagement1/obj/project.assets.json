@@ -8811,19 +8811,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\97798\\.nuget\\packages\\": {}
+    "C:\\Users\\Amrit\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\97798\\source\\repos\\FoodManagement1\\FoodManagement1\\ProductManagement.csproj",
+      "projectUniqueName": "C:\\Users\\Amrit\\Desktop\\FoodManagement\\FoodManagementPratik\\Foodmanagement\\FoodManagement1\\ProductManagement.csproj",
       "projectName": "ProductManagement",
-      "projectPath": "C:\\Users\\97798\\source\\repos\\FoodManagement1\\FoodManagement1\\ProductManagement.csproj",
-      "packagesPath": "C:\\Users\\97798\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\97798\\source\\repos\\FoodManagement1\\FoodManagement1\\obj\\",
+      "projectPath": "C:\\Users\\Amrit\\Desktop\\FoodManagement\\FoodManagementPratik\\Foodmanagement\\FoodManagement1\\ProductManagement.csproj",
+      "packagesPath": "C:\\Users\\Amrit\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Amrit\\Desktop\\FoodManagement\\FoodManagementPratik\\Foodmanagement\\FoodManagement1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\97798\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Amrit\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8890,7 +8890,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
