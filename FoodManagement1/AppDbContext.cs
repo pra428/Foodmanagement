@@ -1,4 +1,4 @@
-﻿namespace FoodManagement1
+﻿namespace ProductManagement
 {
     internal class AppDbContext
     {

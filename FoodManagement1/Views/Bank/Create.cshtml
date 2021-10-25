@@ -1,0 +1,34 @@
+﻿
+@model ProductManagement.Models.Bank;
+
+
+<div class="row">
+    <div class="col-md-6 mx-auto">
+        <div class="card">
+            <div class="card-header bg-danger text-white">
+                <h5 class="text-uppercase text-center">Registration Form</h5>
+            </div>
+            <div class="card-body">
+                <form  asp-action="Create" method="post">
+                    <div asp-validation-summary="All" class="text-danger"></div>
+                    <div class="form-group">
+                        <label asp-for="Name"></label>
+                        <input asp-for="Name" class="form-control" />
+                        <span asp-validation-for="Name" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="UserName"></label>
+                        <input asp-for="UserName" class="form-control" />
+                        <span asp-validation-for="UserName" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Password"></label>
+                        <input asp-for="Password" class="form-control" />
+                        <span asp-validation-for="Password" class="text-danger"></span>
+                    </div>
+                    <input type="submit" value="Submit" class="btn btn-sm btn-success text-uppercase rounded-0" />
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

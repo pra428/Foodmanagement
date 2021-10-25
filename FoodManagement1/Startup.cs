@@ -9,7 +9,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace FoodManagement1
+namespace ProductManagement
 {
     public class Startup
     {
