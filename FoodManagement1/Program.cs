@@ -6,8 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
-using FoodManagement1;
-
+using ProductManagement;
 public class Program
     {
         public static void Main(string[] args)

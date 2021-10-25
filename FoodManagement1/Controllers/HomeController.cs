@@ -1,50 +1,14 @@
-﻿using FoodManagement1.Models;
-using Microsoft.AspNetCore.Mvc;
-using Microsoft.Extensions.Logging;
+﻿using Microsoft.AspNetCore.Mvc;
+using ProductManagement.Models;
 using System.Diagnostics;
 
-namespace FoodManagement1.Controllers
+namespace ProductManagement.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
 
-        public HomeController(ILogger<HomeController> logger)
-        {
-            _logger = logger;
-        }
-
-        public IActionResult AddUser()
-        {
-            return View();
-        }
 
         public IActionResult Login()
-        {
-            return View();
-        }
-        public IActionResult Product()
-        {
-            return View();
-        }
-        public IActionResult PlaceOrder()
-        {
-            return View();
-        }
-        public IActionResult Distributor()
-        {
-            return View();
-        }
-        public IActionResult Consultant()
-        {
-            return View();
-        }
-        public IActionResult Bank()
-        {
-            return View();
-        }
-
-        public IActionResult Practice()
         {
             return View();
         }

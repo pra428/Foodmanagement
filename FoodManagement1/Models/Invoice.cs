@@ -1,7 +1,8 @@
+using ProductManagement.Models;
 using System.ComponentModel.DataAnnotations;
 using System.Text;
 
-namespace FoodManagement1.Models
+namespace ProductManagement.Models
 {
     public class Invoice : Base
     {
